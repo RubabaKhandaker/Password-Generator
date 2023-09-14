@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Description
-![Screenshot of Deployed site.]
+![Screenshot of Deployed site.](https://raw.githubusercontent.com/RubabaKhandaker/Password-Generator/main/assets/images/Password-Generator-Screenshot.png)
 
 This is a customisable random password generator that showcases some of the core JavaScript skills I have learnt during week 3 of the MONU coding bootcamp .
 
